@@ -16,7 +16,7 @@ Tools: [Python libraries](https://www.python.org/), [Streamlit](https://streamli
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Badges](#badges)
+
 
 ## Installation
 
