@@ -35,12 +35,12 @@ See requirements.txt for rest
    streamlit run app.py
 ```
 2. Select the movie of your choice
-  ```md
-    ![select movie of your choice](assets/images/1.png)
-    ```
+  <img width="960" alt="1" src="https://github.com/isha-c21/mrs-new/assets/143329346/e2c4515a-816c-4e65-ac0d-4f29e337f781">
+
 4. click on the 'Recommend' button
-```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+<img width="960" alt="2" src="https://github.com/isha-c21/mrs-new/assets/143329346/9db22fd6-535f-4a75-881d-85c07ad549ab">
+
 5. See the top 5 movies recommended
+   <img width="960" alt="4" src="https://github.com/isha-c21/mrs-new/assets/143329346/4415327a-5a85-4b85-91ec-198a66a6a89d">
+
 
