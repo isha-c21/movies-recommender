@@ -1,4 +1,4 @@
-# Movie Recommender System
+# Movie Recommender System 🎥
 
 As the name suggests, it's an IMDB movies recommender system built using Kaggle IMDB database 
 of 5000 movies and its API keys
@@ -15,8 +15,8 @@ Tools: [Python libraries](https://www.python.org/), [Streamlit](https://streamli
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
 - [License](#license)
+- [Badges](#badges)
 
 ## Installation
 
@@ -34,13 +34,25 @@ See requirements.txt for rest
 ```
    streamlit run app.py
 ```
-2. Select the movie of your choice
-  <img width="960" alt="1" src="https://github.com/isha-c21/mrs-new/assets/143329346/e2c4515a-816c-4e65-ac0d-4f29e337f781">
+2. Open the app as seen below
+<img width="960" alt="1" src="https://github.com/isha-c21/mrs-new/assets/143329346/24930a61-29de-4b24-a62a-5e7249594347">
 
-4. click on the 'Recommend' button
-<img width="960" alt="2" src="https://github.com/isha-c21/mrs-new/assets/143329346/9db22fd6-535f-4a75-881d-85c07ad549ab">
+3. Selected the movie of your choice
+<img width="960" alt="2" src="https://github.com/isha-c21/mrs-new/assets/143329346/74d23a9a-b6c5-4c22-a699-73657dcf8665">
 
-5. See the top 5 movies recommended
-   <img width="960" alt="4" src="https://github.com/isha-c21/mrs-new/assets/143329346/4415327a-5a85-4b85-91ec-198a66a6a89d">
+4. Click the 'Recommend' button
+<img width="960" alt="3" src="https://github.com/isha-c21/mrs-new/assets/143329346/97711a7b-c3e7-4f2d-8fba-7c90bdef2814">
+
+5. See the top 5 recommended movies
+<img width="960" alt="4" src="https://github.com/isha-c21/mrs-new/assets/143329346/51676cea-ecef-4fd9-9845-563b96d74b24">
 
 
+
+## Licence
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish. 
+
+
+## Badges
